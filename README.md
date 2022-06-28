@@ -1,7 +1,7 @@
 
 LovelyChallenge
 
-Hi there, let me explain better this project that I`ve tryed to work on.
+Hi there, let me explain better this project that I`ve tried to work on.
 
 I've tried to finish it by today and gave my best!
 
